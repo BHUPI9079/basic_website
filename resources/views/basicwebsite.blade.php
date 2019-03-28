@@ -3,16 +3,17 @@
 <html>
 <head>
 	<title>KAFE-QILLA</title>
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,500,500i,600,600i" rel="stylesheet">
+
 </head>
 <body style="background-image:url('https://wallpapercave.com/wp/n8gRJwP.jpg')">
     @yield('content')
 
     @section('content')
 
-       <h1 style="color:red">welcome to kefe qilla</h1>
+       <h1  style="color:#F08080;font-family: 'Raleway', sans-serif; font-size:50px;">Welcome to Kafe Qilla</h1>
        
-       <hr>
-       <h2 style="color:gray">everyday new experience</h2>
+       <h2 style="color:gray;font-family: 'Raleway', sans-serif;  font-weight:500; font-size: 40px;" >Everyday a New Experience </h2>
 
        <style> 
        img {
@@ -24,15 +25,15 @@
 
 
        <img src="https://steemitimages.com/DQme7ZdgZUPHPVW4JZbQfPon9BH4aNJeRas4thKSaPs8P63/Coffe-Daniela-Christoffer.jpg" width="800" height="600">
-       <hr>
+       
     
-       <h1 style="color:red" >ALSO AVAILABLE ON</h1>
-       <hr>
-       <hr>
+       <h1 style="color:#F08080;font-family: 'Raleway', sans-serif;  font-weight:500; font-size: 40px;">ALSO AVAILABLE ON</h1>
+       
+       
        <h3><strong><a style="color:black" href="https://www.swiggy.com">1.swiggy</a></strong></h3> 
        <h3><strong><a style="color:black" href="https://www.zomato.com">2.zomato </a></strong></h3>
-       <hr>
-       <hr>
+       
+       
        <style>
 input[type=text], select {
   width: 100%;
@@ -67,16 +68,18 @@ div {
 </style>
 <body>
 
-<h3>COUSTMER FEEDBACK FORM</h3>
+<h3 STYLE="COLOR:#F08080;font-family: 'Raleway', sans-serif;  font-weight:500; font-size: 40px;">CUSTOMER FEEDBACK FORM</h3>
 
 <div>
   <form action="/">
+    
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
     <label for="TO.NO.">TOKEN NO.</label>
     <input type="text" id="TO.NO." name="TOKEN NO." placeholder="Your TOKEN NO...">
-
+    
+    
     <label  for="FEEDBACK">FEEDBACK</label>
     <select id="FEEDBACK" name="FEEDBACK">
       <option value="test is not good">TEST IS NOT GOOD</option>
@@ -85,17 +88,19 @@ div {
       <option value="test is great">TEST IS SSSSGREAT</option>
     </select>
 
+  
+
     <label for="complain">COMPLAIN</label>
     <input type="text" id="complain" name="complain" placeholder="your COMPLAIN..">
 
     <label for="suggestion">SUGGESTION</label>
     <input type="text" id="suggestion" name="suggestion" placeholder="Your SUGGESTION..">
-  
-    <input type="submit" value="Submit">
+
+    <input type="submit" value="submit">
   </form>
 </div>
-<hr>
-<hr>
+
+
 
 
 <style>
@@ -146,7 +151,7 @@ div.desc {
 </head>
 <body>
 
-  <H2 STYLE="COLOR:RED">IMAGE GALLARY</H2>
+  <H2 STYLE="COLOR:#F08080;font-family: 'Raleway', sans-serif;  font-weight:500; font-size: 40px;">IMAGE GALLERY</H2>
 
 <div class="gallery">
   <a target="_blank" href="https://i.pinimg.com/originals/e2/6e/50/e26e50f9badfbc308f81dbc9ff10fd70.jpg">
@@ -176,7 +181,7 @@ div.desc {
   <div class="desc">shakes...change the test</div>
 
 
-  dhsvousdeytgo8e7qt
+
   
 
 
